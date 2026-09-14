@@ -1,10 +1,10 @@
-Simple project for study makefiles
+Simple project for study makefiles. Ia BЫL tut
 =====================
 
 Примеры для обучения использованию make-файлов
 
 _example-1_
----------------
+--------------
 
 Пример примитивного make-файла для программы hello.cpp
 Создаются отладочная и релизная версии кода
